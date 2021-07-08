@@ -1,0 +1,13 @@
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.exe
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.deps.json
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.runtimeconfig.json
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.runtimeconfig.dev.json
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.dll
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\bin\Debug\netcoreapp3.1\EstacionamientoTP2.pdb
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.AssemblyInfo.cs
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.dll
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.pdb
+C:\Users\MI\Desktop\EstacionamientoTP2\EstacionamientoTP2\obj\Debug\netcoreapp3.1\EstacionamientoTP2.genruntimeconfig.cache
